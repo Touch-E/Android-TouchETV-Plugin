@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.TouchETVPlugin" parent="Theme.Material3.Light.NoActionBar" />
+
+    <style name="Theme.TouchETVPlugin" parent="Base.Theme.TouchETVPlugin" />
+
+    <style name="Theme.Leanback" parent="Theme.Leanback" tools:ignore="ResourceCycle" />
+
+</resources>
